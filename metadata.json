@@ -1,5 +1,5 @@
- "name": "morph1k",
-  "website": "https://x.com/morph1k",
-  "description": "Best chainbase node from morph1k",
-  "logo": "https://raw.githubusercontent.com/morph1k/chainbase_node/refs/heads/main/800_800_ua.png",
-  "twitter": "https://x.com/morph1k"
+name: "morph1k"
+website: "https://x.com/morph1k"
+description: "Best chainbase node from morph1k"
+logo: "https://raw.githubusercontent.com/morph1k/chainbase_node/refs/heads/main/800_800_ua.png"
+twitter: "https://x.com/morph1k"
